@@ -16,12 +16,22 @@ Analyze the Student Online Exam Registration System and model its components thr
 # DIAGRAMS:
 
 ### USE CASE DIAGRAM
+![image](https://github.com/user-attachments/assets/ae65593e-bf36-4657-be98-e0f05433a0de)
 
 ### CLASS DIAGRAM
+![image](https://github.com/user-attachments/assets/f36fa5a6-c380-4838-a2fa-283128bf7f74)
+
 ### ACTIVITY DIAGRAM
+![image](https://github.com/user-attachments/assets/98f2f1b2-6012-4444-9037-770b385516da)
+
 ### COMMUNICATION DIAGRAM
+![image](https://github.com/user-attachments/assets/fbd5e152-f518-400c-a308-040a373818e0)
+
 ### PACKAGE DIAGRAM
+![image](https://github.com/user-attachments/assets/6f0d822f-08ff-4343-9016-c27838676b42)
+
 ### SEQUENCE DIAGRAM
+![image](https://github.com/user-attachments/assets/6d0d960a-8fe6-4ebb-aabe-b40c0f28c746)
 
 
 # RESULT:
